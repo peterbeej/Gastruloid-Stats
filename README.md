@@ -6,7 +6,7 @@ This code is to be implemented in R. We used RStudio version 1.2.5042.
 
 ## Preparing data:
 Images of gastruloids from widefield microscopy should be quantified using the Python image processing pipeline available here: https://github.com/naomi-moris/humanGastruloids_shapeDescriptors
-The pipleline outputs .csv files that can be processed with this code.
+The pipeline outputs .csv files that can be processed with this code.
 
 ## QC:
 Contours from the image processing pipeline should be manually curated to exclude any that capture the background of the image or fail to contour the gastruloid.
